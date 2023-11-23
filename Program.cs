@@ -36,7 +36,7 @@ namespace _23._11
 
 
             //ZADACHA 5
-            cvetove[2] = "Jylt";
+            cvetove[1] = "Jylt";
             
 
             //ZADACHA 6
